@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The IoC container
 
 In this exercise, we'll be creating a few components and inject it in our IoC container, so we can
@@ -204,3 +205,6 @@ http://localhost:8080/dogs endpoint. You should be seeing the instances of dog y
 browser.
 
 ![img_7.png](img_7.png)
+=======
+# SpringBasicsAga
+>>>>>>> d8dcb400c80e9825102384801a42ddc569aaffd0
